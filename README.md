@@ -9,6 +9,8 @@ The alchemical tool aims to use both geospatial information relating stewards wi
 
 With the development of cyborg like citizens, characterized as humans that are sensorially connected in some way with read & write capabilities for cognition & body networks, following such [protocols](https://www.are.na/block/14409277). In the autonomous guiding systems of navigating and constructing patchwork like community cohesion, I believe these types of tools will be useful in fullfilling the meaning derivation function for NFT consumption.
 
+![tree ARG](./tree_arg.png)
+
 ## photonics
 
 In a future driven by photonics, each card replicant can be a type of cultural operating system that runs from a far in some continous way, i.e. in magic noone wins. [photonics](https://kk.org/thetechnium/the-photonic-age/)
