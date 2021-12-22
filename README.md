@@ -19,8 +19,8 @@ To give some examples, I've joked with my neighbour many of times how some situa
 The purpose of passing through users through such gates, is to create squad like entanglements. Why? To further guide such compression functions in the etheral as to relate our IRL being with dream state activations to unlock the realt metaverse.
 
 - Layer 0 (9 parameters): Enneagram Personality Test (Self)
-- Layer 1 (78 parameters): Tarot (Current )
+- Layer 1 (78 parameters): Tarot (Collective Psyche)
 - Layer 2 (64 parameters): I-Ching Transformation (Transitions)
 - Layer 3 (10 parameters): Kabbalah Tree (Calendar & Sephiroth)
 
-![flower of life](https://slife.org/wp-content/uploads/2012/06/Sacred-Geometry-Sri-Yantra-Kabbalah-600x600.jpg)
+![flower of life](./tree.jpeg)
