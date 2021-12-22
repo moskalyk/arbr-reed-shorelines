@@ -23,4 +23,4 @@ The purpose of passing through users through such gates, is to create squad like
 - Layer 2 (64 parameters): I-Ching Transformation (Transitions)
 - Layer 3 (10 parameters): Kabbalah Tree (Calendar & Sephiroth)
 
-[flower of life](https://slife.org/wp-content/uploads/2012/06/Sacred-Geometry-Sri-Yantra-Kabbalah-600x600.jpg)
+![flower of life](https://slife.org/wp-content/uploads/2012/06/Sacred-Geometry-Sri-Yantra-Kabbalah-600x600.jpg)
