@@ -11,7 +11,7 @@ With the development of cyborg like citizens, characterized as humans that are s
 
 ## photonics
 
-In a future driven by photonics, each card replicant can be a type of cultrual operating system that runs from a far. [photonics](https://kk.org/thetechnium/the-photonic-age/)
+In a future driven by photonics, each card replicant can be a type of cultural operating system that runs from a far in some continous way, i.e. in magic noone wins. [photonics](https://kk.org/thetechnium/the-photonic-age/)
 
 To give some examples, I've joked with my neighbour many of times how some situation represents some card, or, that 'someone is 8 of cups'ing you'. 
 
